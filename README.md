@@ -12,9 +12,9 @@ The dataset used in this project is "austin_weather.csv", containing historical 
 Dependencies:
 
 Ensure you have the following dependencies installed:
-numpy
-pandas
-sklearn (scikit-learn)
+numpy,
+pandas,
+sklearn (scikit-learn),
 matplotlib
 
 The script performs the following steps:
